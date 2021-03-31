@@ -1,0 +1,36 @@
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    border-radius: 15px;
+    width:80%;
+    margin-left:10%;
+    margin-top:5%;
+}
+  .flex-item-first{
+    background-color: #f1f1f1;
+    padding: 20px;
+    flex: 50%;
+    margin:15px;
+    border-radius: 15px;
+    color: #003366;
+    
+ 
+  }
+  .flex-item-second{
+    background-color: #f1f1f1;
+    padding: 20px;
+    flex: 50%;
+    margin:15px;
+    border-radius: 15px;
+    color: #003366;
+ 
+  }
+
+  .about-title{
+    text-align: center;
+    margin:3% 10%;
+    width:80%;
+
+  
+  }

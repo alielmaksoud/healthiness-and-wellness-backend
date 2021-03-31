@@ -1,0 +1,23 @@
+.flex-container-contact {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    border-radius: 15px;
+    width:80%;
+    margin-left:5%;
+    margin-top:5%;
+}
+  .flex-item-first-contact{
+    flex: 50%;
+    border-radius: 15px;
+    color: #003366;
+    
+ 
+  }
+  .flex-item-second-contact{
+    flex: 50%;
+    border-radius: 15px;
+    color: #003366;
+ 
+  }
+
